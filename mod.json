@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Lauriethefish/QuestPatcher.QMod/refs/heads/main/QuestPatcher.QMod/Resources/qmod.schema.json",
+  "_QPVersion": "1.1.0",
+  "name": "HeartBeatQuestSkin-蜜汁工坊表情包",
+  "id": "HeartBeatQuestSkin_mizhigongfang",
+  "author": "frto027",
+  "version": "0.0.1",
+  "packageId": "com.beatgames.beatsaber",
+  "description": "蜜汁工坊表情包皮肤。",
+  "coverImage": "zako.png",
+  "fileCopies": [
+    {
+      "name": "defaultwidget",
+      "destination": "/sdcard/ModData/com.beatgames.beatsaber/Mods/HeartBeatQuest/UI/mizhigongfang.bundle"
+    }
+  ]
+}
