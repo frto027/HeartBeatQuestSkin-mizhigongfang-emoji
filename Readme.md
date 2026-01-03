@@ -8,9 +8,9 @@ Image from 蜜汁工坊.
 
 此项目可作为给HeartBeatQuest自定义表情包UI的一个样板项目。
 
-适用于HeartBeatQuest v0.2.6及以后版本版本。在[这里](https://github.com/frto027/HeartBeatQuestSkin-mizhigongfang-emoji/releases/)下载安装qmod文件。
+适用于HeartBeatQuest v0.2.6及以后版本。在[这里](https://github.com/frto027/HeartBeatQuestSkin-mizhigongfang-emoji/releases/)下载qmod文件。然后使用你的mod管理工具安装它，并在mod设置里切换。
 
-注意需要打开Advanced HUD（高级HUD），否则不会显示。因为UI挂在了immediateRankGo上面。
+注意需要在游戏内打开Advanced HUD（高级HUD），否则不会显示。因为UI挂在了immediateRankGo上面。
 
 根据心率切换不同的表情显示。
 
