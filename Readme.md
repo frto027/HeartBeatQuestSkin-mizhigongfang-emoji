@@ -2,13 +2,15 @@
 
 This is a HeartBeatQuest skin.
 
-image from 蜜汁工坊
+Image from 蜜汁工坊.
 
 # HeartBeatQuest蜜汁工坊表情包模组
 
-![img](zako.png)  
+此项目可作为给HeartBeatQuest自定义表情包UI的一个样板项目。
 
-适用于HeartBeatQuest v0.2.6及以后版本版本。
+适用于HeartBeatQuest v0.2.6及以后版本版本。在[这里](https://github.com/frto027/HeartBeatQuestSkin-mizhigongfang-emoji/releases/)下载安装qmod文件。
+
+注意需要打开Advanced HUD（高级HUD），否则不会显示。因为UI挂在了immediateRankGo上面。
 
 根据心率切换不同的表情显示。
 
@@ -38,3 +40,9 @@ image from 蜜汁工坊
 调整mod.json。
 
 将mod.json和zako.png（这是封面），还有defaultwidget一起打包压缩，改后缀为qmod即可作为mod使用。
+
+详细定制内容请参考[这里](https://github.com/frto027/HeartBeatQuest/blob/master/UnityUI/Readme.md)。
+
+# 改进
+
+欢迎提交pr.
